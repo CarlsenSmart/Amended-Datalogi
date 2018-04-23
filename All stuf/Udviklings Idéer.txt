@@ -1,0 +1,9 @@
+
+
+Referencer:
+- keyword database - af alle endpoints af refs
+- forslåelse af keywords når man skriver
+- måske tydligere farvekode for noget mere nyt ref, og andet for gammle refs 
+- trykker man på refs, tænker jeg at en søjle til højre kommer, og vil stakke flere refs op, som kan slette ved lukke knap.
+  - på den måde skal vi ikke have et huske-navigations system.
+- Husk at keywords kan være definieret til at være forskellige i forskellige sammenhænge. - SÅ EKSTRA NOTATION FOR AT SPECIFICERE FORSKEL i database

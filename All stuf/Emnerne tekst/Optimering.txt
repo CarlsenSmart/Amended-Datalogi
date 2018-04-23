@@ -1,0 +1,11 @@
+
+Intro:
+
+Approximation minder meget om optimering, 
+men er det ikke. - måske lav sammenligning her
+
+To slags optimering:
+- ikke constraint
+- constraint
+
+Lav en oversigt over sammenhæng

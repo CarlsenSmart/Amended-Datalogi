@@ -1,0 +1,28 @@
+
+Oversigt:
+- Datalogiske emner fra 2015
+- Måske noget ekstra, som dybdere matematik
+- og detajleret computer, OS og netwærk bygning 
+- Ha evt. nye kurser incl. fra 2017
+- basal matematik
+
+
+Emnerne:
+- Pensum for årgang 2015 (kan være det forsvinder senere)
+- Generelt forståelse og redskaber for emnet.
+- motivation til hvorfor emnet er brugebart, med illustrationer, refs til fremtidige emner.
+- Tekst til delemner (som minimeres efter første læsning - Kan folders ud og i igen)
+- Hvilke matematiske regler vi anvender (altså hvad er fundamentet)
+- Illustationer af den modellerede verden (matematisk/fysisk)
+- Vise danske og engelske fagtermer.
+- Unik visningsside ? - Kunne godt tænke mig noget specielt for algo
+- Der skal være forskel på gennemgående tekst med forklaring og refs. (refs skal være super simpel og meget overskulige at forstå - uden for meget tekst)
+
+
+Hierarki:
+- Prøv at have tidligere kurser nederste og byg op
+- Der skal være edges mellem afhængede emner
+- Liste af de afhængede emner og trykke på dem
+- (måske vising og forklaring mellem notations forskelle)
+- Edge hen til grundlæggende matematik
+- Edge til pensum manglende box (altså delemener som ikke er pensum, men referes til)

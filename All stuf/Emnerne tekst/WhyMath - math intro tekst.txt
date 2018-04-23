@@ -1,0 +1,30 @@
+
+Why Math ? 
+(oversæt til eng. senere)
+
+Vi bruger matematik til at modellere noget inde for et domæne.
+Det startede med at være den fysiske verden, men man ser også 
+matematik blive brugt udelukkende til at gøre noget mere klart inde et 
+digitalt/matematisk verden.
+
+Vi skal f.eks. se på tærte som vi gerne vil dele i tre lige rimelige dele.
+- hvordan gør vi ? - Her har vi en cirkel, som er en forfineret model af en tærte. Vores fysiske verden er meget mere komplet end matematik, men heldigvis behøves vi ikke at være ligeså præcise med vores resultater i den fysiske verden som i den matematiske. I vores fysiske verden er der højere accept indefor error håndtering. Så vi kan sagtens bygge et hus uden at være 100 procent matematiske omkring det. 
+
+- Tilbage til tærten. Vi kan i vores præcise matematiske verden nøjagtigt vide hvordan cirklen skal deles i tre og det er det fede ved matematik! Vi behøves slet ikke at være så præcise til at dele en tærte i 3. Det skal bare sådan ca. være efter som vores matematiske model. Men vi kom hen til noget meget præcist på grund af matematik, da det ligesom også er gjort simplere end det fysiske. - Hvilket er cool at vi kan gøre det!
+
+Så dette er motivationen for at lære matematik. - For vi vil gerne komme hen til nogle resultater i en præcis verden, som kan gavne os i en verden hvor vi bare skal være aprosimativt tæt på.
+
+
+Vores grund regler ZFC, og så bygger vi op
+
+
+Derudover, så kan det hjælpe os at se på matematik som en leg eller et spil. Vi kan f.eks. have regl i vores spil med at + betyder at noget tæller op. Og så vi tage nogle symboler som 1,2...,30 som vi definere til at have en værdi, hvilket er 1=1, 2=1+1, 3=2+1,....,30=29+1. På den måde er alle symbolerne definierert til at have noget efter sig ved at tælle op med symbolet 1. Det gør vi f.eks. kan skrive 4 = 3+1 = 2+1+1 = 2+2 osv. for alle symboler. 
+Nu mangler vi bare et vinde scenarie i vores spil, som kan være at få symbolet 25 først. Hver spiller før et tilfældigt symbol mellem 1,..,10 og kan vælge at stoppe eller fortsætte. Kommer man over har man tabt og kommer man tætteste på og vælger at holde har man vundet. (inspiration fra black jack). 
+
+Det var nu et spil vi fandt på, vi brugte to ting som er brugt meget i matematik, naturlige tal fra 1 til 30, og plus operationen. Det her spil har ingen stort relation med andet matematik, det var bare et spil en leg. Så man kan sige det var vores eget lille domæne. 
+
+Det er vigtigt for mig at fortælle jer at når vi arbejder med forskellige modelleringer af matematik, så har det ikke altid en sammenhæng med alt andet matematik. Det er det jeg tror folk mister lidt overblikket over ved matematik. Man ser det som en stor sammenhæng, men problemerne er altså forskellige og domænerne og modelleringerne er også forskellige. 
+
+Arbejder vi med at bestemt domæne har vi også nogle bestemte spille regler for dette domæne, og det er mere overskuligt, hvis man kan isolere det lidt væk fra alt det matematik som ikke har nogen relation til det.
+
+Derfor vil jeg så vidt muligt beskrive for jer hvilke spilleregler vi arbejder med når vi modellere noget, så I kan få isoleret idéer om hvad der er muligt og hvilke mål der kan opnåes inde for vores domæne.
